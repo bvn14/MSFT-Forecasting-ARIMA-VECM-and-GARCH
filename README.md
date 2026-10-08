@@ -29,14 +29,6 @@ The extra variables did not improve the point forecast. Both models give a nearl
 - VIX looks stationary in levels (ADF test), so the cointegrating relation is mostly driven by VIX.
 - The hold-out test uses one 30-day window, so the error estimates are not very stable.
 
-## Project structure
-
-```
-data/        Saved price data (MSFT, SP500, VIX)
-notebooks/   Full analysis notebook
-reports/     Presentation submitted for the course
-```
-
 ## How to run
 
 ```
